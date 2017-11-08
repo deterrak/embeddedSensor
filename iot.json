@@ -1,0 +1,13 @@
+{
+   "description": "iot-1",
+   "gpio66": "IR_Sensor#1",
+   "gpio67": "IR_Sensor#2",
+   "gpio69": "IR_Sensor#3",
+   "gpio68": "IR_Sensor#4",
+   "gpio44": "pushbotton#1",
+   "gpio45": "pushbotton#2",
+   "6781": "blue",
+   "e780": "red",
+   "6981": "green",
+   "69e0": "yellow"
+}
