@@ -8,7 +8,7 @@ I've developed a custom 'cape' that matches the GPIO to the IR sensors and LEDs.
 See the code for the appropriate GPIO pins.
 
 
-# Workflow Composer rule
+# Workflow Composer Rule
 ````
 ---  
 description: 'Start the BeagleTag Workflow'  
